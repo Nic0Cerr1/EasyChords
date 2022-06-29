@@ -1,0 +1,41 @@
+* {
+    margin: 0%
+}
+
+@import url('http://fonts.cdnfonts.com/css/sf-fedora-titles-2');
+            
+body {
+    background-color: rgb(51, 51, 51);
+}
+
+
+/* Titulo y logo inicio */
+h1 {
+color: rgb(233, 124, 0); text-align: center;
+font-family: 'SF Fedora Outline';
+
+
+}
+
+p.subtitulo {
+    color: rgb(255, 255, 255);text-align: center;font-size: 25px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+p.imagen {
+    text-align: center;
+
+}
+
+/* Titulo y logo fin */
+
+form {
+ color: #000;
+}
+
+
+.barra {
+
+    width: 40%;
+    margin: auto;
+}
